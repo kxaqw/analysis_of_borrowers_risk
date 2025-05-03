@@ -5,9 +5,9 @@ This project aims to explore the relationship between various socio-demographic 
 
 Our primary focus is to determine whether features such as the number of children, marital status, and income level are associated with timely repayment of loans. By analyzing these factors, we seek to understand the behavioral and financial characteristics of borrowers who are more or less likely to default.
 
-The project will be carried out in three main stages:
+The project will be carried out in three main stages: <br>
 <ul>
-    <li>Data Review – assessing data quality and identifying anomalies or inconsistencies. </ul>li>
+    <li>Data Review – assessing data quality and identifying anomalies or inconsistencies. </li>
     <li>Data Preprocessing – cleaning, transforming, and correcting critical data errors. </li>
     <li>Exploratory Data Analysis – answering key questions and validating hypotheses using visualizations and statistical methods. </li>
 </ul>
