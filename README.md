@@ -18,7 +18,7 @@ Exploratory Data Analysis – answering key questions and validating hypotheses 
 Produce an analytical report for a bank’s credit division by assessing the likelihood of borrowers failing to repay loans.
 Demonstrate the use of data preprocessing methods in a practical, real-world scenario involving financial data.
 
-**Technology Used <br>
+**Technology Used** <br>
 <ul>
     <li>Python</li>
     <li>Jupyter Notebook</li>
