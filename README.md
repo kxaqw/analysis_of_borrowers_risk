@@ -19,7 +19,7 @@ Demonstrate the use of data preprocessing methods in a practical, real-world sce
 **Technology Used** <br>
 <ul>
     <li>Python</li>
-    <li>Jupyter Notebook</li>
+    <li>Google Colab</li>
     <li>Pandas</li>
     <li>Numpy </li>
     <li>Matplotlib</li>
